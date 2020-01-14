@@ -1,2 +1,2 @@
-# cpsc298
+# cpsc298// section 2
 Interterm C++ class
